@@ -1,0 +1,34 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.tsbuildinfo
+
+# Env & secrets
+.env
+.env.*.local
+.env.local
+
+# Builds / caches
+dist/
+build/
+coverage/
+.next/
+out/
+.cache/
+.tmp/
+temp/
+tmp/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+*.log.*
